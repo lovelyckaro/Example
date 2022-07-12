@@ -1,2 +1,2 @@
 main :: IO ()
-main = putStrLn "Hello, Git!"
+main = putStrLn "Merge conflict incoming!"
