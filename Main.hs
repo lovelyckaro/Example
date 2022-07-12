@@ -1,2 +1,4 @@
 main :: IO ()
-main = putStrLn "I dislike merge conflicts"
+main = do
+  putStrLn "I dislike merge conflicts"
+  putStrLn "Merge conflict incoming!"
